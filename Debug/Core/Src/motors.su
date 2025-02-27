@@ -1,0 +1,4 @@
+../Core/Src/motors.c:70:6:get_motors_speed	8	static
+../Core/Src/motors.c:121:6:set_motors_speed	4	static
+../Core/Src/motors.c:130:12:get_pid_params	24	static
+../Core/Src/motors.c:167:6:set_motors_output	8	static
